@@ -1,0 +1,29 @@
+{
+    "name": "burger",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Burger App",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/FrancescaPuche/Burger-Logger.git"
+    },
+    "author": "Francesca Puche",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/FrancescaPuche/Burger-Logger/issues"
+    },
+    "homepage": "https://github.com/FrancescaPuche/Burger-Logger#readme",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "dotenv": "^8.0.0",
+      "express": "^4.17.1",
+      "express-handlebars": "^3.1.0",
+      "mysql": "^2.17.1"
+    },
+    "devDependencies": {}
+}
+  
